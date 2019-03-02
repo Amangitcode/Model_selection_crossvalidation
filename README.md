@@ -1,6 +1,9 @@
 # Model_selection_crossvalidation
 Review accuracy estimation methods and compare methods:  crossvalidation and bootstrap
 
+In this work sklearn built in dataset 'iris dataset' has been used train and test dataset. You can try your won dataset
+For more details pleae visit my Kaggle page: 
+
 # Steps
 - import required libs and sklearn iris dataset
 - create X and Y data set to train Y = wX + b model 
